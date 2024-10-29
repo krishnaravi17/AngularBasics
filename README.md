@@ -1,6 +1,12 @@
-# SecondDemoApp
+# Angular DemoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
+basic angular cmds:
+- npm install -g @angular/cli 
+- ng new <project-name>
+- ng serve // for start server
+- npm start // to run app
+- npm i //for building project
 
 ## Development server
 
